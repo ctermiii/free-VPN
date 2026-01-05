@@ -1,3 +1,25 @@
+# 2026年1月6日 07:29:12更新：
+
+# 节点1（20MB+）、部署到**爪云**：
+```
+vless://66b80b60-7877-416b-af71-f1c38acd7bdd@bwaybdfwemsz.ap-northeast-1.clawcloudrun.com:443?encryption=none&security=tls&sni=bwaybdfwemsz.ap-northeast-1.clawcloudrun.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=bwaybdfwemsz.ap-northeast-1.clawcloudrun.com&path=%2F#Vl-ws-tls-vps-6d898976bf-jkp8f
+```
+![QQ_1767635856596|606x500](upload://7o7e18cDoQD4kWfhVfD4yoyUf4Q.png)
+
+# 节点2（2-10MB+）：
+```
+https://super-moon-ba33.to2ai.workers.dev/55638c55-de0d-403b-a5b7-90a3a8647737/sub
+```
+
+## clash版本：
+```
+https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fsuper-moon-ba33.to2ai.workers.dev%2F55638c55-de0d-403b-a5b7-90a3a8647737%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FbyJoey%2Ftest%2Frefs%2Fheads%2Fmain%2Ftist.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
+```
+
+>延迟不好测出来，大家留个备用，反正这个版本部署到**cfwork**的 
+![QQ_1767639741129|690x484](upload://m0KyXYUNzV7wfcDpCZAU1u5iLuD.png)
+
+
 #  free-VPN - 永久免费的高速节点集合 🚀
 
 <p align="center">
