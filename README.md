@@ -4,7 +4,8 @@
 ```
 vless://66b80b60-7877-416b-af71-f1c38acd7bdd@bwaybdfwemsz.ap-northeast-1.clawcloudrun.com:443?encryption=none&security=tls&sni=bwaybdfwemsz.ap-northeast-1.clawcloudrun.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=bwaybdfwemsz.ap-northeast-1.clawcloudrun.com&path=%2F#Vl-ws-tls-vps-6d898976bf-jkp8f
 ```
-![QQ_1767635856596|606x500](upload://7o7e18cDoQD4kWfhVfD4yoyUf4Q.png)
+<img width="909" height="750" alt="image" src="https://github.com/user-attachments/assets/de10da28-530e-4f37-b9a8-4e5b203dd203" />
+
 
 # 节点2（2-10MB+）：
 ```
@@ -17,7 +18,8 @@ https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fsuper-moon-ba33.to2ai.worke
 ```
 
 >延迟不好测出来，大家留个备用，反正这个版本部署到**cfwork**的 
-![QQ_1767639741129|690x484](upload://m0KyXYUNzV7wfcDpCZAU1u5iLuD.png)
+<img width="1035" height="726" alt="image" src="https://github.com/user-attachments/assets/edad19a8-650f-45dd-8901-4d19bf6ee420" />
+
 
 
 #  free-VPN - 永久免费的高速节点集合 🚀
