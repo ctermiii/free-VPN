@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 ```
 
-# 顶尖几万个节点（更新快、有GitHub仓库、每天都有更新）
+# 顶尖几万个节点（更新快、有GitHub仓库、每天都有更新、但是更新订阅的时候会卡爆）
 
 > 他们的GitHub仓库为：https://github.com/gfpcom/free-proxy-list
 
