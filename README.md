@@ -21,6 +21,15 @@ https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 ```
 
+# ermaozi / get_subscribe (二猫子)
+> 这是一个非常强大的自动化抓取仓库，它不仅抓取，还会进行简单的连通性测试。
+
+```
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+```
+
+
+
 # 顶尖几万个节点（更新快、有GitHub仓库、每天都有更新、但是更新订阅的时候会卡爆）
 
 > 他们的GitHub仓库为：https://github.com/gfpcom/free-proxy-list
