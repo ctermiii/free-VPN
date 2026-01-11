@@ -56,9 +56,27 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 ```
 https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 ```
+# Fastly CDN 源 (Pawdroid 备份)
+> 这是利用 Fastly CDN 加速的链接，绕过了 GitHub 原生域名。
+
+```
+https://fastly.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub
+```
+# Epodonios / v2ray-configs (配置集合)
+> 这是一个国外的维护者整理的列表，可能包含一些国内源抓不到的海外节点
+
+```
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
+```
 
 
 
+# ts-sf / fly (飞翔源)
+> 节点存活比较少，备用就行，这是一个自动化抓取项目，主要抓取 VLESS 和 VMess 节点。
+
+```
+https://raw.githubusercontent.com/ts-sf/fly/main/v2
+```
 
 # 顶尖几万个节点（更新快、有GitHub仓库、每天都有更新、但是更新订阅的时候会卡爆）
 
