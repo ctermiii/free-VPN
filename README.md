@@ -1,6 +1,7 @@
 # 下方由于我托管到cfwork上导致大家都来使用了，那么他的可用性就非常的不得行，所以请移步到我的新仓库自行部署一个：
 https://github.com/lza6/vps-cfwork
 
+<img width="2033" height="979" alt="c3670978-ee0f-453e-b706-554c5a0f5120" src="https://github.com/user-attachments/assets/18ac5957-e3f1-4cdb-8c54-cf18706c1960" />
 
 
 
