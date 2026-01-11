@@ -1,27 +1,12 @@
-openproxylist官网地址：https://openproxylist.com
 
-<details>
-  
-<summary>openproxylist的长期免费节点（记得每小时更新一下，如果不能用了就每小时更新一下）：</summary>
 
-# Raw List (纯文本列表): 
-```
-https://openproxylist.com/v2ray/rawlist/text
-```
+# openproxylist的长期免费节点（记得每小时更新一下，如果不能用了就每小时更新一下）
 
-# Subscription (订阅链接): 
-```
-https://openproxylist.com/v2ray/rawlist/subscribe
-```
-
-# GitHub 镜像 (v2ray，小白不懂就用这个):
 ```
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 ```
-<img width="1778" height="1249" alt="image" src="https://github.com/user-attachments/assets/9c8b347b-8de3-41dd-b52e-3c9826d1436f" />
 
-</details>
-
+> openproxylist官网地址：https://openproxylist.com
 
 # 备用少量稳定节点（聚合了多个来源的仓库，更新频率很高）：
 
