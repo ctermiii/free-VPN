@@ -1,3 +1,9 @@
+# 下方由于我托管到cfwork上导致大家都来使用了，那么他的可用性就非常的不得行，所以请移步到我的新仓库自行部署一个：
+https://github.com/lza6/vps-cfwork
+
+
+
+
 
 <details>
   
