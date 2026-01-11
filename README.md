@@ -28,6 +28,36 @@ https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 ```
 
+# MahdiBland / V2RayAggregator (聚合器之王)
+> 实测可用性不强，这个仓库是目前 GitHub 上最著名的聚合器之一，它会把全球几十个源的节点抓取过来，并自动过滤掉连不上的。很多其他人的订阅都是抄他的。
+
+```
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity
+```
+
+# Peasoft / NoMoreWalls (老牌稳定)
+> 确实挺强的，看着啥都有说明，这也是一个非常老牌的项目，维护者很勤快，专门针对网络封锁严重的地区进行优化。
+
+```
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+```
+
+# 所有格式的节点（太乱了，鱼龙混杂，每15分钟自动更新一次节点列表，用不了你就更新一下订阅）
+> 太杂了，节点高达七千多个，不知道更新频率如何，第一个是所有格式的，那么我们这边只会附带他们的仓库，然后你自行去看看其他优秀的
+> https://github.com/MatinGhanbari/v2ray-configs
+> 每15分钟会自动更新一次
+
+```
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+```
+# SsrSub (老牌订阅)
+> 不要被名字里的 SSR 骗了，它里面包含大量的 V2Ray 节点。这是一个非常古老的维护项目。
+
+```
+https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+```
+
+
 
 
 # 顶尖几万个节点（更新快、有GitHub仓库、每天都有更新、但是更新订阅的时候会卡爆）
