@@ -1,4 +1,4 @@
-https://openproxylist.com（openproxylist官网地址）
+openproxylist官网地址：https://openproxylist.com
 
 <details>
   
