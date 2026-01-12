@@ -178,6 +178,7 @@ https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
 https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless
+https://raw.githubusercontent.com/pachangcheng/mianfeijiedian/refs/heads/main/should.txt
 ```
 
 
