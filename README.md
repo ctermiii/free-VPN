@@ -87,6 +87,32 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Proto
 - **所有配置**：查看并下载所有配置：
   - [所有配置](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt)
 
+# 又一个合集：
+
+  - **HTTP**
+    ```bash
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/http.txt
+    ```
+  - **HTTPS**
+    ```bash
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/https.txt
+    ```
+  - **SOCKS4**
+    ```bash
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks4.txt
+    ```
+  - **SOCKS5**
+    ```bash
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks5.txt
+    ```
+  - **CONNECT**
+    ```bash
+    https://github.com/zloi-user/hideip.me/raw/refs/heads/master/connect.txt
+    ```
+
+    
+
+
 
 
 # ts-sf / fly (飞翔源)
