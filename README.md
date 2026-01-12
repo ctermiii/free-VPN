@@ -68,6 +68,13 @@ https://fastly.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub
 ```
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 ```
+# ALIILAPRO / v2rayng-config (阿里源)
+> 这是一个国外的大神维护的，专门针对 v2rayNG 客户端优化。
+
+```
+https://fastly.jsdelivr.net/gh/ALIILAPRO/v2rayng-config@master/sub.txt
+```
+
 
 
 
