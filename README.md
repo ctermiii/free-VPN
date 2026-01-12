@@ -75,6 +75,17 @@ https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.t
 https://fastly.jsdelivr.net/gh/ALIILAPRO/v2rayng-config@master/sub.txt
 ```
 
+# 他藏得很深，但是还是被我找到了：
+
+```
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt
+```
+  - [SS协议](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/ss.txt)
+  - [Trojan协议](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/trojan.txt)
+  - [VLESS协议](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt)
+  - [VMess协议](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vmess.txt)
+- **所有配置**：查看并下载所有配置：
+  - [所有配置](https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt)
 
 
 
